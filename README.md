@@ -1,9 +1,9 @@
-# Credit card clustering
-This project was created as a study of Unsupervised Machine Learning techniques (Clustering & PCA) in Python. The idea was to bring a little more theory about model building and some visualization possibilities to create a report.
+# Clustering Review
+This project is a Unsupervised Machine Learning study with Python (Clustering & PCA). The focus was to further discuss the theories behind these models and present some visualization ideas.
 
-The analytical part of the results I left for next time. You will see that the Kmeans technique was applied, which makes this an iterative process. What this means? That the result of your code should be different, even with the same settings.
+You will see that the Kmeans technique was used, which makes this process iterative. What is the implication of this? That the results of your code might be a little different even with the same settings.
 
-That is all. Send me corrections and suggestions for improvement. 
-All collaboration is very welcome.
+Finally, don't hesitate to send me tweaks and improvement suggestions.
+Any collaboration is welcome.
 
 Have fun! :-)
