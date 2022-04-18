@@ -7,7 +7,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
-![](https://api.visitorbadge.io/api/VisitorHit?user=samuel-haddad&repo=LogitReview&countColor=#40e0d0)
+![](https://api.visitorbadge.io/api/VisitorHit?user=samuel-haddad&repo=ClusteringReview&countColor=#40e0d0)
 
 ## Introduction
 This project is an Unsupervised Machine Learning study with Python (Clustering & PCA). The focus was to further discuss the theories behind these models and present some visualization ideas.
