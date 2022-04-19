@@ -86,6 +86,4 @@ Density-based. In other words, groups are determined based on data density. For 
 **Documentação:**
 <br>https://scikit-learn.org/stable/modules/clustering.html </br>
 
-
-<br> > **Bonnus track:** https://machinelearningmastery.com/threshold-moving-for-imbalanced-classification/
 <br> > **Kaggle:** https://www.kaggle.com/code/haddads/cc-clustering/data
