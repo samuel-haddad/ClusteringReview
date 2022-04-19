@@ -36,7 +36,7 @@ Regarding distances, the two main ones are:
 - Minkowsky <br>
 ![formula](https://render.githubusercontent.com/render/math?math=\color{white}\large\d_p(x_i,x_j)=(\sum_{k=1}^d|x_i-w_i|^p)^\frac{1}{p})
 
-### **Métodos**
+### **Methods**
 
 **Hierarchical**<br>
 The hierarchical method, also known as **dendogram** (which is actually the method's output), is a method in which groupings are created as distances between observations increase. At each level, a number of groups are created. This method, however, is usually not very efficient for large volumes of data.<br>
